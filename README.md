@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @R4F
+- 👋 Hi, I’m @R4
 - 👀 I’m interested in Web Design and Fitness Education
 - 🌱 I’m currently learning HTML+CSS
